@@ -13,4 +13,3 @@ some stats about me
 - 🌱 learning web dev (HTML / CSS / Javascript)
 - 🤔 intrigued by trees, plants, and mycology 
 - 🔊 listening to [Nujabes](https://youtu.be/-naGLLXz9zg)
--->
