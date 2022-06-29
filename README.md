@@ -12,11 +12,10 @@ blog: https://www.jaxzxu.com/
 
 
 
-- ⚡ born in China, raised in NYC :statue_of_liberty:
-- 🌱 I’m currently learning web dev (HTML / CSS / Javascript)
+- :cn: born in China, raised in NYC :statue_of_liberty:
+- 🌱 currently learning web dev (HTML / CSS / Javascript)
 
 
 
-- 🤔 interested in trees, plants and mycology 
-- 🔭 I’m currently working on ...
+- 🤔 interested in trees, plants, and mycology 
 -->
