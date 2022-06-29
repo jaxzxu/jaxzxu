@@ -7,7 +7,6 @@
 1x [Vipassana](https://www.dhamma.org) retreat (10-day silent meditation retreat)
 
 
-
 blog: https://www.jaxzxu.com/
 
 
@@ -17,5 +16,5 @@ blog: https://www.jaxzxu.com/
 
 
 
-- 🤔 interested in trees, plants, and mycology 
+- 🤔 currently intrigued by trees, plants, and mycology 
 -->
