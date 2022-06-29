@@ -3,7 +3,7 @@
 
 some stats
 
-1x 🥊[Muay Thai fight](https://youtu.be/NSNgyCN6xHs)
+1x 🥊 [Muay Thai fight](https://youtu.be/NSNgyCN6xHs)
 
 1x [Vipassana](https://www.dhamma.org) retreat (10-day silent meditation retreat)
 
