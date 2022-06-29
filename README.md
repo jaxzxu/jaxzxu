@@ -2,9 +2,9 @@
 
 
 
-1 - [Muay Thai Fight](https://youtu.be/NSNgyCN6xHs)
+1x [Muay Thai Fight](https://youtu.be/NSNgyCN6xHs)
 
-1 - [Vipassana](https://www.dhamma.org) retreat (10-day silent meditation retreat)
+1x [Vipassana](https://www.dhamma.org) retreat (10-day silent meditation retreat)
 
 blog: https://www.jaxzxu.com/
 
