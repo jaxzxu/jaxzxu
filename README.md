@@ -12,7 +12,7 @@ blog: https://www.jaxzxu.com/
 
 
 
-- ⚡ born in China, raised in Queens, NYC
+- ⚡ born in China, raised in :statue_of_liberty:NYC
 - 🌱 I’m currently learning web dev (HTML / CSS / Javascript)
 
 
