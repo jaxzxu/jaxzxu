@@ -3,7 +3,7 @@
 
 some stats about me
 
-1x 🥊 [Muay Thai fight](https://youtu.be/NSNgyCN6xHs)
+1x 🥊 [Muay Thai fight](https://www.instagram.com/p/CXIdgG1l9oz/)
 
 1x 🕳️ [Vipassana](https://www.dhamma.org) retreat (10-day silent meditation retreat)
 
