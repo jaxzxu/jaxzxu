@@ -11,5 +11,5 @@ some stats about me
 
 - :cn: born in China, raised in NYC :statue_of_liberty:
 - 🌱 learning web dev (HTML / CSS / Javascript)
-- 🤔 intrigued by trees, plants, and mycology 
+- 🤔 intrigued by trees and plants
 - 🔊 listening to [Nujabes](https://youtu.be/-naGLLXz9zg)
